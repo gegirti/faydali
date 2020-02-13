@@ -8,4 +8,4 @@ DT = datetime.date(Dogum_yili, Dogum_ayi, Dogum_gunu)
 Tumen_gun = datetime.timedelta(10000)
 
 Tumen_hesabi = DT + Tumen_gun
-print(Tumen_hesabi, "tarihi senin Tümen günün")
+print(Tumen_hesabi, "is you myriad day!")
